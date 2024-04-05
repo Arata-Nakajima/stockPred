@@ -1,1 +1,3 @@
-Python3 stockPred.py
+```
+python3 stockPred.py
+```
